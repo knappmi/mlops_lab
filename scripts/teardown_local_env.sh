@@ -1,6 +1,6 @@
-#!/bin/bash
+bn hbjgt.gtf,#!/bin/bash
 # Teardown local MLOps environment
-
+BN Dam
 echo "=== MLOps Environment Teardown ==="
 echo "This script will remove Minikube, clean up containers, and optionally remove installed tools."
 echo "=================================="
